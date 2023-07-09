@@ -6,9 +6,6 @@
 - **有些包的版本并不校准，请自行分辨确认。**
 - *Some package versions are not calibrated, please identify and confirm by yourself.*
 
-### 前往查看[GPT-4·Code-Interpreter](https://chat.openai.com/share/5c2848a6-8cdc-4454-85ea-66109bc595b0)生成内容！
-### Go to view [GPT-4· Code-Interpreter](https://chat.openai.com/share/5c2848a6-8cdc-4454-85ea-66109bc595b0)Build Content！
-
 ## A
 
 [absl-py==1.4.0](https://anaconda.org/anaconda/absl-py)❗
